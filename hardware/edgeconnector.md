@@ -10,8 +10,11 @@ ref: hardware
 lang: en
 ---
 
-
 # Overview
+{:notoc}
+
+* TOC
+{:toc}
 
 The edge connector on the micro:bit is used to connect to external circuits and components.
 
