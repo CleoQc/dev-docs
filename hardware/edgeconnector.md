@@ -248,6 +248,26 @@ as the pitch is the same (but it is slightly wider).
 
 There is a good [mechanical data-sheet](http://resources.coolcomponents.co.uk/CONNECTORS/10156.pdf) for the right angle PCB edge connector available from Cool Components.
 
+## Can You Find a Better Connector?
+
+There are a number of suppliers of edge connector for the micro:bit, in various forms,
+such as a right angle through-hole, a stand-up through-hole and a stand-up surface
+mount. There are a wide range of connector manufacturers that sell thousands of
+different types of connectors.
+
+There are also some nice ideas that have surfaced in the community such as using just
+the right size of countersunk or cheese-head bolt, or even 3D printed inserts.
+
+Can you help to find or design a better connection solution to the micro:bit
+edge connector? Share your designs and discoveries with us!
+
+## Third Party Connnectors [Add your connector to our list](http://github.com/microbit-foundation/dev-docs/edit/master/hardware/edgeconnector.md){: .btn.btn-info}
+
+| Supplier | Product 
+| -------- | -------
+|[Cyclonn](http://www.dgyuliang.net)| [Cylconn 90 degree connector](http://www.dgyuliang.net/d/file/Produtcs/Customized%20Connector/MICRO%20BIT%20Connector/84a0fe06b4296135d64139b5b4297ef3.pdf), [Cylconn 180 degree connector](http://www.dgyuliang.net/d/file/Produtcs/Customized%20Connector/MICRO%20BIT%20Connector/0d43030af84ade6fc3f00e242079c055.pdf)
+
+
 ## Further information
 
 [micro:bit schematics](../schematic)
@@ -272,22 +292,3 @@ with 3D printers.
 
 [SAT file](https://www.kitronik.co.uk/zip/Microbit_SAT.zip) This file can be used
 with [ACIS Modeller](http://www.spatial.com/products/3d-acis-modeling).
-
-## Can You Find a Better Connector?
-
-There are a number of suppliers of edge connector for the micro:bit, in various forms,
-such as a right angle through-hole, a stand-up through-hole and a stand-up surface
-mount. There are a wide range of connector manufacturers that sell thousands of
-different types of connectors.
-
-There are also some nice ideas that have surfaced in the community such as using just
-the right size of countersunk or cheese-head bolt, or even 3D printed inserts.
-
-Can you help to find or design a better connection solution to the micro:bit
-edge connector? Share your designs and discoveries with us!
-
-## Third Party Connnectors [Add your connector to our list](http://github.com/microbit-foundation/dev-docs/edit/master/hardware/edgeconnector.md){: .btn.btn-info}
-
-| Supplier | Product 
-| -------- | -------
-|[Cyclonn](http://www.dgyuliang.net)| [Cylconn 90 degree connector](http://www.dgyuliang.net/d/file/Produtcs/Customized%20Connector/MICRO%20BIT%20Connector/84a0fe06b4296135d64139b5b4297ef3.pdf), [Cylconn 180 degree connector](http://www.dgyuliang.net/d/file/Produtcs/Customized%20Connector/MICRO%20BIT%20Connector/0d43030af84ade6fc3f00e242079c055.pdf)
